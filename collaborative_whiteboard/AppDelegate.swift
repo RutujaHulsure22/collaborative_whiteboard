@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  collaborative_whiteboard
-//
-//  Created by Pushkar Ghogare on 12/10/24.
-//
 
 import UIKit
 
